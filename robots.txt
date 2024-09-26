@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ikegerea.github.io/sitemap.ikegerea.gz
+Sitemap: https://ikegerea.github.io/app/sitemap.ikegerea.gz
+Sitemap: https://ikegerea.github.io/assets/sitemap.ikegerea.gz
+Sitemap: https://ikegerea.github.io/css/sitemap.ikegerea.gz
+Sitemap: https://ikegerea.github.io/data/sitemap.ikegerea.gz
+Sitemap: https://ikegerea.github.io/includes/sitemap.ikegerea.gz
+Sitemap: https://ikegerea.github.io/item/sitemap.ikegerea.gz
+Sitemap: https://ikegerea.github.io/src/sitemap.ikegerea.gz
